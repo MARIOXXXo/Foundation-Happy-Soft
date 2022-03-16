@@ -36,6 +36,7 @@ a{
   color: #8a8a8a;
 }
 
+
 .translucent-form-overlay input::-webkit-input-placeholder {
   color: #8a8a8a;
 }
@@ -66,12 +67,13 @@ background-color:  #77767c;
 }
 .translucent-form-overlay{
   background-color: #77767c;
+  
 }
 
 
 
 .tag-cloud-section {
-  background: #7b93a4;
+  background: #77767c;
   padding: 1rem;
   max-width: 1200px;
   margin: 0 auto;
@@ -119,5 +121,3 @@ background-color:  #77767c;
   background: black;
   transition: background-color .2s ease-in;
 }
-
-
